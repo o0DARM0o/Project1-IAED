@@ -1,5 +1,5 @@
-# Projeto1-IAED
-Projeto 1 para a cadeira de Introdução aos Algoritmos e Estruturas de Dados
+# Project1-IAED
+Project 1 Introduction to Algorithms and Data Structures
 
 # Enunciado do Projeto 1 - IAED 2022/23
 
