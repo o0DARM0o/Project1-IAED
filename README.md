@@ -5,10 +5,6 @@ Project 1 Introduction to Algorithms and Data Structures
 
 ## Data de entrega: 24 de março 2023, às 19h59
 
-## LOG alterações
-
-- 3mar23 - Publicação do enunciado.
-
 ## 1. Introdução
 
 Pretende-se a construção de um sistema de gestão de carreiras de
