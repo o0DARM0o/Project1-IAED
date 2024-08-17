@@ -3,8 +3,6 @@ Project 1 Introduction to Algorithms and Data Structures
 
 # Enunciado do Projeto 1 - IAED 2022/23
 
-## Data de entrega: 24 de março 2023, às 19h59
-
 ## 1. Introdução
 
 Pretende-se a construção de um sistema de gestão de carreiras de
